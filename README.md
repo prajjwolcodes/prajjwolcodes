@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on full stack web development projects using the MERN stack.<br>👯 I’m looking to collaborate on innovative web applications and open-source projects.<br>🤝 I’m looking for help with exploring advanced features in Next.js and optimizing MongoDB performance.<br>🌱 I’m currently learning the intricacies of Next.js to enhance my full stack development skills.<br>💬 Ask me about React, Next.js, Node.js, and MongoDB.<br>⚡ Fun fact: I am very energetic and quick to learn new technologies, which has greatly benefited me in my role as a junior full stack developer.
+<br>🔭 I’m currently working on full stack web development projects using the MERN stack.<br><br>👯 I’m looking to collaborate on innovative web applications and open-source projects.<br>🤝 I’m looking for help with exploring advanced features in Next.js and optimizing MongoDB performance.<br><br>🌱 I’m currently learning the intricacies of Next.js to enhance my full stack development skills.<br><br>💬 Ask me about React, Next.js, Node.js, and MongoDB.<br><br>⚡ Fun fact: I am very energetic and quick to learn new technologies, which has greatly benefited me in my role as a junior full stack developer.
 
 
 ## 🌐 Socials:
